@@ -58,7 +58,7 @@ export default {
   axios: {
     // baseURL: 'http://localhost:8000/api' 
     // baseURL: 'https://salty-thicket-54548.herokuapp.com/api/' 
-	baseURL: 'https://yadhena-backend.herokuapp.com//api/'    
+	baseURL: 'https://yadhena-backend.herokuapp.com/api/'    
   },
   auth: {
 
